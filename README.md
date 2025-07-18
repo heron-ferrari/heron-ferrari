@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Creating bugs since 2021<br>🛠 I'm working as Network Intern<br>📚  I'm currently learning about Frontend<br>🎮 In my free time i like to play games</p>
+<p align="left">👨🏻‍💻 Creating bugs since 2021<br>🛠 I'm not working right now<br>📚  I'm currently learning about Frontend<br>🎮 In my free time i like to play games</p>
 
 ###
 
