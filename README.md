@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Creating bugs since 2021<br>🛠 I'm not working right now<br>📚  I'm currently learning about Frontend<br>🎮 In my free time i like to play games</p>
+<p align="left">👨🏻‍💻 Creating bugs since 2021<br>🛠 I'm not working right now<br>📚  I'm currently learning about Java and C++<br>🎮 In my free time i like to play games</p>
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" href="https://www.instagram.com/heron_ferrari/" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
