@@ -67,11 +67,3 @@
   <source media="(prefers-color-scheme: blue)" srcset="https://raw.githubusercontent.com/heron-ferrari/heron-ferrari/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heron-ferrari/heron-ferrari/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/heron-ferrari/count.svg?"  />
-</div>
-
-###
